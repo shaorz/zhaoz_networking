@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "asio_example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "asio_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asio_example-Debug-1d368ff8a5d794c53d34.json",
+					"name" : "asio_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_client-Debug-9fc7416f5c74a034c87e.json",
+					"name" : "simple_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_server-Debug-8159db306a102fdf8a56.json",
+					"name" : "simple_server",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/srz/source/repos/boost_tutorial/asio_example/out/build/x64-Debug",
+		"source" : "C:/Users/srz/source/repos/boost_tutorial/asio_example"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

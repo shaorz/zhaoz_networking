@@ -1,0 +1,4 @@
+# ninja log v5
+0	1068	6510802131617465	CMakeFiles/udp_server.dir/udp_server.cpp.obj	f62d88b89e2ccab0
+0	14	0	clean	9992afb1f91dc381
+1068	1447	6510802132625796	udp_server.exe	832ad073a5965276

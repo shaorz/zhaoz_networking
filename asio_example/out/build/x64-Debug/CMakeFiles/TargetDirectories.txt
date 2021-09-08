@@ -1,0 +1,5 @@
+C:/Users/srz/source/repos/boost_tutorial/asio_example/out/build/x64-Debug/CMakeFiles/asio_example.dir
+C:/Users/srz/source/repos/boost_tutorial/asio_example/out/build/x64-Debug/CMakeFiles/simple_server.dir
+C:/Users/srz/source/repos/boost_tutorial/asio_example/out/build/x64-Debug/CMakeFiles/simple_client.dir
+C:/Users/srz/source/repos/boost_tutorial/asio_example/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/srz/source/repos/boost_tutorial/asio_example/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

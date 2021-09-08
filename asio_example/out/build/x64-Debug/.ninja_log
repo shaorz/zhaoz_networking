@@ -1,0 +1,8 @@
+# ninja log v5
+12	2772	6524380019321512	CMakeFiles/asio_example.dir/asio_example.cpp.obj	a683349569858d1f
+2772	3327	6524380021635307	asio_example.exe	272cc12fef66e6eb
+16	3133	6524380022951791	CMakeFiles/simple_client.dir/simple_client.cpp.obj	1860fbba1fbabf8d
+14	3113	6524380022742356	CMakeFiles/simple_server.dir/simple_server.cpp.obj	a09d521aee66bb9b
+0	5	0	clean	9992afb1f91dc381
+3114	3609	6524380024816795	simple_server.exe	7f48421adfda028c
+3134	3609	6524380024697120	simple_client.exe	f8796f94bef37e3d
